@@ -1,0 +1,20 @@
+# apply arithmatic operations
+
+addition = 72 + 23
+subtraction = 108 - 204
+multiplication = 108 * 0.5
+division = 108 / 9
+
+print addition
+print subtraction
+print multiplication
+print division
+
+# addition with the help of variables
+num1 = 204 
+num2 = 100
+
+addition = num1 + num2
+subtraction = num1 - num2
+multiplication = num * num2
+division = num / num2
