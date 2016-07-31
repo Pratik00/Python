@@ -1,0 +1,15 @@
+# variables
+
+# syntax variable_name = value (integer, float, string, char, boolean)
+
+#(intger type)
+var = 10 
+#(String type)
+var_s = "Any string"
+#(Float type)
+var_f = 14.4 
+#(bollean type)
+var_b = True
+
+#print the value of var
+print var
