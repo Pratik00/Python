@@ -1,0 +1,5 @@
+# Hello World code
+# Use print command to print on the console
+
+print "Hello World!\n" 
+# \n is for next line or line change
